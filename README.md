@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @mharris-t
-- 👀 I’m interested in Cloud Computing, Networking and Security
+- 📚 I'm currently studying MS in Communciations Engineering at Aalto University, Finland.
+- 👀 I’m interested in Cloud Computing, Networking and Security.
 - 🌱 I’m currently learning Programmable Dataplanes, Cloud Operations and DevOps.
 
 <!---
