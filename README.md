@@ -16,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mharris-t&show_icons=true&locale=en&layout=compact" alt="mharris-t" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mharris-t&show_icons=true&locale=en" alt="mharris-t" /></p>
-
-<a href="https://app.daily.dev/mharrist"><img src="https://api.daily.dev/devcards/418f1e26c01e43f9a174e30184eba8de.png?r=1ut" width="400" alt="Munavar Harris's Dev Card"/></a>
