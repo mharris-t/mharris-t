@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Munavar Harris Thottoli</h1>
-<h3 align="center">I am a Technical Account Manager (Presales) in Finland 🧑🏽‍💻☁️, and a Master's graduate from Aalto University👨🏽‍🎓</h3>
+<h3 align="center">I am a Cloud/DevOps Architect in Finland 🧑🏽‍💻☁️, and a Master's graduate from Aalto University👨🏽‍🎓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mharris-t&label=Profile%20views&color=0e75b6&style=flat" alt="mharris-t" /> </p>
-
-- 🌱 I’m currently learning **Data plane programming with P4, cloud automation and security.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
